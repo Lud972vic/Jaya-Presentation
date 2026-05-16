@@ -54,6 +54,7 @@ Oui, tu as bien lu. **4 jours**. En live. Avec des gens qui regardent. C'est com
 <img width="600" alt="screenshot_28" src="https://github.com/user-attachments/assets/f12020c4-6bed-465b-920d-b414188b87d5" />
 <img width="600" alt="screenshot_27" src="https://github.com/user-attachments/assets/b1463a09-aeac-415c-b22b-3c82e2ee2b42" />
 <img width="600" alt="screenshot_26" src="https://github.com/user-attachments/assets/18dd9dfc-3a25-4f60-809b-54a1c3dada4c" />
+<img width="600" alt="screenshot_34" src="https://github.com/user-attachments/assets/ccbacf39-053d-4ccd-968d-5605987f12bb" />
 
 - **🎊 Événements privés** :
   - Affichage des événements à venir et passés
@@ -128,7 +129,10 @@ Oui, tu as bien lu. **4 jours**. En live. Avec des gens qui regardent. C'est com
   - Marquer comme prête
   - Marquer comme servie
   - Annuler
-    
+<img width="600" alt="screenshot_29" src="https://github.com/user-attachments/assets/90fad72b-0a87-4f16-bc00-9ecb5e0fcb1b" />
+<img width="600" alt="screenshot_30" src="https://github.com/user-attachments/assets/a093ad88-5ca9-4c22-a5b4-87684a59db41" />
+<img width="600" alt="screenshot_31" src="https://github.com/user-attachments/assets/6d7c88da-5887-46d9-85ae-75e79ff19a3e" />
+
 - **🪑 Gestion des tables** : Toggle occupancy avec QR code generation
 
 ### Gestion des Événements
@@ -139,6 +143,8 @@ Oui, tu as bien lu. **4 jours**. En live. Avec des gens qui regardent. C'est com
   - Supprimer
 - **🖼️ Gestion des images** : Sélection d'image depuis dossier
 - **📊 Vue séparée** : Événements à venir vs passés
+<img width="600" alt="screenshot_22" src="https://github.com/user-attachments/assets/3fa0f4b8-165c-457e-bf59-585dac5a0091" />
+<img width="600" alt="screenshot_23" src="https://github.com/user-attachments/assets/a9ac13b3-968c-45fc-ba6b-33498e9082bd" />
 
 ### Gestion des Demandes d'Événements Privés
 - **📋 Liste des demandes** : Toutes les demandes triées par date
@@ -163,15 +169,12 @@ Oui, tu as bien lu. **4 jours**. En live. Avec des gens qui regardent. C'est com
 
 
 
-<img width="600" alt="screenshot_22" src="https://github.com/user-attachments/assets/3fa0f4b8-165c-457e-bf59-585dac5a0091" />
-<img width="600" alt="screenshot_23" src="https://github.com/user-attachments/assets/a9ac13b3-968c-45fc-ba6b-33498e9082bd" />
+
 <img width="600" alt="screenshot_24" src="https://github.com/user-attachments/assets/65f5f21e-da66-45c2-8e6f-81c72ee84600" />
 <img width="600" alt="screenshot_25" src="https://github.com/user-attachments/assets/0531d172-c3f9-4d6c-99bf-2e864f5885cb" />
-<img width="600" alt="screenshot_29" src="https://github.com/user-attachments/assets/90fad72b-0a87-4f16-bc00-9ecb5e0fcb1b" />
-<img width="600" alt="screenshot_30" src="https://github.com/user-attachments/assets/a093ad88-5ca9-4c22-a5b4-87684a59db41" />
-<img width="600" alt="screenshot_31" src="https://github.com/user-attachments/assets/6d7c88da-5887-46d9-85ae-75e79ff19a3e" />
+
 <img width="600" alt="screenshot_32" src="https://github.com/user-attachments/assets/c6b825ac-c3d2-4066-91f3-cd3f9ef9c463" />
-<img width="600" alt="screenshot_34" src="https://github.com/user-attachments/assets/ccbacf39-053d-4ccd-968d-5605987f12bb" />
+
 <img width="600" alt="screenshot_36" src="https://github.com/user-attachments/assets/0c0b5adb-d5a8-4d8a-9305-9fb5a5b82af5" />
 
 ---
