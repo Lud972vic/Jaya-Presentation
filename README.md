@@ -347,7 +347,7 @@ Ce logiciel est fourni "tel quel", sans aucune garantie. Si ton serveur explose,
 
 
 
-<img width="600" alt="screenshot_37" src="https://github.com/user-attachments/assets/e1a120eb-bc27-471f-ae2b-cff48d26d2d4" />
+<img width="300" alt="screenshot_37" src="https://github.com/user-attachments/assets/e1a120eb-bc27-471f-ae2b-cff48d26d2d4" />
 <img width="1425" height="1580" alt="screenshot_36" src="https://github.com/user-attachments/assets/0c0b5adb-d5a8-4d8a-9305-9fb5a5b82af5" />
 <img width="1425" height="1580" alt="screenshot_35" src="https://github.com/user-attachments/assets/724a82a8-183a-4f03-ba46-af25b7223bd3" />
 <img width="1425" height="1580" alt="screenshot_34" src="https://github.com/user-attachments/assets/ccbacf39-053d-4ccd-968d-5605987f12bb" />
