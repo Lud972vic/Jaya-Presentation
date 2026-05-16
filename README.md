@@ -38,9 +38,6 @@ Oui, tu as bien lu. **4 jours**. En live. Avec des gens qui regardent. C'est com
 <img width="600" alt="screenshot_02" src="https://github.com/user-attachments/assets/77b0530b-226c-46d8-803f-7dd8b002a95c" />
 
 - **📅 Réservation** : Formulaire complet avec validation de date (pas de réservation dans le passé, logique)
-<img width="600" alt="screenshot_03" src="https://github.com/user-attachments/assets/353c93c2-fcf5-4712-9f8d-c5dedeb23d5d" />
-<img width="600" alt="screenshot_04" src="https://github.com/user-attachments/assets/43b6e20a-d90e-49f5-aba4-09fc19fcc6a6" />
-<img width="600" alt="screenshot_05" src="https://github.com/user-attachments/assets/13fb5fd4-b896-4e2d-a806-5d3e713f6156" />
 <img width="600" alt="screenshot_35" src="https://github.com/user-attachments/assets/724a82a8-183a-4f03-ba46-af25b7223bd3" />
 
 - **🍴 Commande QR Code** :
@@ -49,6 +46,9 @@ Oui, tu as bien lu. **4 jours**. En live. Avec des gens qui regardent. C'est com
   - Sélection des articles avec quantités
   - Confirmation de commande avec récapitulatif
   - Suivi du statut de la commande en temps réel
+<img width="600" alt="screenshot_03" src="https://github.com/user-attachments/assets/353c93c2-fcf5-4712-9f8d-c5dedeb23d5d" />
+<img width="600" alt="screenshot_04" src="https://github.com/user-attachments/assets/43b6e20a-d90e-49f5-aba4-09fc19fcc6a6" />
+<img width="600" alt="screenshot_05" src="https://github.com/user-attachments/assets/13fb5fd4-b896-4e2d-a806-5d3e713f6156" />
 <img width="600" alt="screenshot_28" src="https://github.com/user-attachments/assets/f12020c4-6bed-465b-920d-b414188b87d5" />
 <img width="600" alt="screenshot_27" src="https://github.com/user-attachments/assets/b1463a09-aeac-415c-b22b-3c82e2ee2b42" />
 <img width="600" alt="screenshot_26" src="https://github.com/user-attachments/assets/18dd9dfc-3a25-4f60-809b-54a1c3dada4c" />
