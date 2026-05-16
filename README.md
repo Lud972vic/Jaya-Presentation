@@ -32,11 +32,15 @@ Oui, tu as bien lu. **4 jours**. En live. Avec des gens qui regardent. C'est com
 
 ## 🌐 Partie Front (Côté Client)
 
-### Pages Publiques
+### Accueil
 - **🏠 Page d'accueil** : Affichage des événements à venir et passés, détection automatique de la langue (FR/EN)
 <img width="600" alt="screenshot_01" src="https://github.com/user-attachments/assets/470ee8dd-5b2c-4793-9f2c-ba2e014df015" />
+<img width="600" alt="screenshot_02" src="https://github.com/user-attachments/assets/77b0530b-226c-46d8-803f-7dd8b002a95c" />
 
 - **📅 Réservation** : Formulaire complet avec validation de date (pas de réservation dans le passé, logique)
+<img width="600" alt="screenshot_03" src="https://github.com/user-attachments/assets/353c93c2-fcf5-4712-9f8d-c5dedeb23d5d" />
+<img width="600" alt="screenshot_04" src="https://github.com/user-attachments/assets/43b6e20a-d90e-49f5-aba4-09fc19fcc6a6" />
+<img width="600" alt="screenshot_05" src="https://github.com/user-attachments/assets/13fb5fd4-b896-4e2d-a806-5d3e713f6156" />
 <img width="600" alt="screenshot_35" src="https://github.com/user-attachments/assets/724a82a8-183a-4f03-ba46-af25b7223bd3" />
 
 - **🍴 Commande QR Code** :
@@ -151,10 +155,6 @@ Oui, tu as bien lu. **4 jours**. En live. Avec des gens qui regardent. C'est com
 - **🚫 Accès restreint** : Toutes les routes admin protégées
 
 ### Diverses captures écrans :
-<img width="600" alt="screenshot_02" src="https://github.com/user-attachments/assets/77b0530b-226c-46d8-803f-7dd8b002a95c" />
-<img width="600" alt="screenshot_03" src="https://github.com/user-attachments/assets/353c93c2-fcf5-4712-9f8d-c5dedeb23d5d" />
-<img width="600" alt="screenshot_04" src="https://github.com/user-attachments/assets/43b6e20a-d90e-49f5-aba4-09fc19fcc6a6" />
-<img width="600" alt="screenshot_05" src="https://github.com/user-attachments/assets/13fb5fd4-b896-4e2d-a806-5d3e713f6156" />
 <img width="600" alt="screenshot_16" src="https://github.com/user-attachments/assets/c36471c1-3b96-4ae2-8d31-e356370a7e07" />
 <img width="600" alt="screenshot_17" src="https://github.com/user-attachments/assets/f1f76d92-4143-410f-a1e0-13a2e82c3ce6" />
 <img width="600" alt="screenshot_18" src="https://github.com/user-attachments/assets/941b6911-f555-4227-9c8b-e41e87987c15" />
