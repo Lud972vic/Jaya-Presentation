@@ -38,6 +38,8 @@ Oui, tu as bien lu. **4 jours**. En live. Avec des gens qui regardent. C'est com
 <img width="600" alt="screenshot_02" src="https://github.com/user-attachments/assets/77b0530b-226c-46d8-803f-7dd8b002a95c" />
 
 - **📅 Réservation** : Formulaire complet avec validation de date (pas de réservation dans le passé, logique)
+<img width="600" alt="screenshot_16" src="https://github.com/user-attachments/assets/c36471c1-3b96-4ae2-8d31-e356370a7e07" />
+<img width="600" alt="screenshot_17" src="https://github.com/user-attachments/assets/f1f76d92-4143-410f-a1e0-13a2e82c3ce6" />
 <img width="600" alt="screenshot_35" src="https://github.com/user-attachments/assets/724a82a8-183a-4f03-ba46-af25b7223bd3" />
 
 - **🍴 Commande QR Code** :
@@ -87,6 +89,7 @@ Oui, tu as bien lu. **4 jours**. En live. Avec des gens qui regardent. C'est com
 ---
 
 ## 🔧 Partie Admin (Back-office)
+<img width="600" alt="screenshot_19" src="https://github.com/user-attachments/assets/fb3d2154-347c-4278-b076-8b1dcac1af01" />
 
 ### Dashboard Principal
 - **📊 Statistiques en temps réel** :
@@ -95,6 +98,7 @@ Oui, tu as bien lu. **4 jours**. En live. Avec des gens qui regardent. C'est com
   - Nombre de commandes
   - Taux d'annulation
   - Panier moyen
+<img width="600" alt="screenshot_20" src="https://github.com/user-attachments/assets/3ce0f9ff-6de9-447b-ab0e-e9d12809ae2f" />
 <img width="600" alt="screenshot_37" src="https://github.com/user-attachments/assets/e1a120eb-bc27-471f-ae2b-cff48d26d2d4" />
 <img width="600" alt="screenshot_21" src="https://github.com/user-attachments/assets/4845e957-3f28-47dd-b17c-22236176edc1" />
   
@@ -155,11 +159,10 @@ Oui, tu as bien lu. **4 jours**. En live. Avec des gens qui regardent. C'est com
 - **🚫 Accès restreint** : Toutes les routes admin protégées
 
 ### Diverses captures écrans :
-<img width="600" alt="screenshot_16" src="https://github.com/user-attachments/assets/c36471c1-3b96-4ae2-8d31-e356370a7e07" />
-<img width="600" alt="screenshot_17" src="https://github.com/user-attachments/assets/f1f76d92-4143-410f-a1e0-13a2e82c3ce6" />
-<img width="600" alt="screenshot_18" src="https://github.com/user-attachments/assets/941b6911-f555-4227-9c8b-e41e87987c15" />
-<img width="600" alt="screenshot_19" src="https://github.com/user-attachments/assets/fb3d2154-347c-4278-b076-8b1dcac1af01" />
-<img width="600" alt="screenshot_20" src="https://github.com/user-attachments/assets/3ce0f9ff-6de9-447b-ab0e-e9d12809ae2f" />
+
+
+
+
 <img width="600" alt="screenshot_22" src="https://github.com/user-attachments/assets/3fa0f4b8-165c-457e-bf59-585dac5a0091" />
 <img width="600" alt="screenshot_23" src="https://github.com/user-attachments/assets/a9ac13b3-968c-45fc-ba6b-33498e9082bd" />
 <img width="600" alt="screenshot_24" src="https://github.com/user-attachments/assets/65f5f21e-da66-45c2-8e6f-81c72ee84600" />
