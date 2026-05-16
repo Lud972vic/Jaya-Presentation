@@ -34,26 +34,42 @@ Oui, tu as bien lu. **4 jours**. En live. Avec des gens qui regardent. C'est com
 
 ### Pages Publiques
 - **🏠 Page d'accueil** : Affichage des événements à venir et passés, détection automatique de la langue (FR/EN)
+<img width="600" alt="screenshot_01" src="https://github.com/user-attachments/assets/470ee8dd-5b2c-4793-9f2c-ba2e014df015" />
+
 - **📅 Réservation** : Formulaire complet avec validation de date (pas de réservation dans le passé, logique)
+<img width="600" alt="screenshot_35" src="https://github.com/user-attachments/assets/724a82a8-183a-4f03-ba46-af25b7223bd3" />
+
 - **🍴 Commande QR Code** :
   - Scan du QR code de table
   - Affichage du menu par catégorie (entrées, plats, desserts, boissons, cocktails)
   - Sélection des articles avec quantités
   - Confirmation de commande avec récapitulatif
   - Suivi du statut de la commande en temps réel
+<img width="600" alt="screenshot_28" src="https://github.com/user-attachments/assets/18dd9dfc-3a25-4f60-809b-54a1c3dada4c" />
+<img width="600" alt="screenshot_27" src="https://github.com/user-attachments/assets/b1463a09-aeac-415c-b22b-3c82e2ee2b42" />
+<img width="600" alt="screenshot_26" src="https://github.com/user-attachments/assets/f12020c4-6bed-465b-920d-b414188b87d5" />
+
 - **🎊 Événements privés** :
   - Affichage des événements à venir et passés
   - Formulaire de demande d'événement privé
   - Galerie d'images dynamique
+<img width="600" alt="screenshot_09" src="https://github.com/user-attachments/assets/4289c3b2-eef7-489d-84ec-96dc6c5fa1a2" />
+<img width="600" alt="screenshot_08" src="https://github.com/user-attachments/assets/08c5b6c9-94ac-49c2-887d-bed5c5d4926b" />
+<img width="600" alt="screenshot_07" src="https://github.com/user-attachments/assets/6c38b7fe-e266-4705-bc27-d7085bc426af" />
+<img width="600" alt="screenshot_06" src="https://github.com/user-attachments/assets/b2284698-82cb-4162-bbdd-eb8a19b0e04e" />
+
 - **ℹ️ Informations pratiques** :
   - Horaires d'ouverture détaillés par jour
   - Services disponibles (restaurant, bar, événements, Wi-Fi, parking, accès handicapé)
   - Coordonnées de contact avec carte
   - Moyens de transport (voiture, taxi, bus)
+ 
+
 - **🤝 Collaborations** :
   - Territoires et environnements partenaires
   - Influenceurs et leurs témoignages
   - Partenaires locaux (pêcheurs, marché, rhums, etc.)
+
 
 ### Fonctionnalités Techniques
 - **🌐 Multilingue** : Système de traduction dynamique via base de données (FR/EN)
@@ -85,6 +101,8 @@ Oui, tu as bien lu. **4 jours**. En live. Avec des gens qui regardent. C'est com
 - **✅ Gestion des statuts** : pending, confirmed, cancelled, completed, no_show
 - **🗑️ Suppression** : Avec protection CSRF
 
+
+
 ### Gestion des Commandes
 - **📦 Workflow complet** :
   - pending → validated → confirmed → ready → served
@@ -97,6 +115,8 @@ Oui, tu as bien lu. **4 jours**. En live. Avec des gens qui regardent. C'est com
   - Annuler
 - **🪑 Gestion des tables** : Toggle occupancy avec QR code generation
 
+
+
 ### Gestion des Événements
 - **📅 CRUD complet** :
   - Créer un nouvel événement
@@ -106,10 +126,14 @@ Oui, tu as bien lu. **4 jours**. En live. Avec des gens qui regardent. C'est com
 - **🖼️ Gestion des images** : Sélection d'image depuis dossier
 - **📊 Vue séparée** : Événements à venir vs passés
 
+
+
 ### Gestion des Demandes d'Événements Privés
 - **📋 Liste des demandes** : Toutes les demandes triées par date
 - **👁️ Détail** : Vue complète de chaque demande
 - **🔄 Gestion des statuts** : pending, contacted, confirmed, cancelled, completed
+
+
 
 ### Gestion des Traductions
 - **🌍 CRUD complet** :
@@ -119,145 +143,12 @@ Oui, tu as bien lu. **4 jours**. En live. Avec des gens qui regardent. C'est com
 - **🔑 Clés de traduction** : Organisées alphabétiquement
 - **💾 Persistance** : Stockées en base de données pour modification sans redeploy
 
+
+
 ### Sécurité Admin
 - **🔐 Authentification** : Login sécurisé avec ROLE_ADMIN
 - **🛡️ Protection CSRF** : Sur toutes les actions destructives
 - **🚫 Accès restreint** : Toutes les routes admin protégées
-
----
-
-## � Captures d'écran
-
-### Partie Front (Côté Client)
-
-#### Page d'accueil
-![Page d'accueil](/CaptureEcran/screenshot_01.png)
-*La page d'accueil avec les événements à venir et passés*
-
-![Page d'accueil scroll](/CaptureEcran/screenshot_02.png)
-*Section événements avec galerie*
-
-#### Réservation
-![Formulaire de réservation](/CaptureEcran/screenshot_03.png)
-*Formulaire complet de réservation de table*
-
-#### Commande via QR Code
-![Scan QR code](/CaptureEcran/screenshot_04.png)
-*Page de scan du QR code de table*
-
-![Menu par catégorie](/CaptureEcran/screenshot_05.png)
-*Affichage du menu organisé par catégorie (entrées, plats, desserts, boissons, cocktails)*
-
-![Sélection des articles](/CaptureEcran/screenshot_06.png)
-*Sélection des articles avec quantités*
-
-![Confirmation de commande](/CaptureEcran/screenshot_07.png)
-*Page de confirmation avec récapitulatif de la commande*
-
-#### Événements Privés
-![Événements privés](/CaptureEcran/screenshot_08.png)
-*Page des événements privés avec formulaire de demande*
-
-![Galerie d'événements](/CaptureEcran/screenshot_09.png)
-*Affichage des événements à venir et passés*
-
-#### Informations Pratiques
-![Informations pratiques](/CaptureEcran/screenshot_10.png)
-*Horaires, services et informations de contact*
-
-#### Collaborations
-![Collaborations](/CaptureEcran/screenshot_11.png)
-*Page des partenariats et collaborations*
-
-### Partie Admin (Back-office)
-
-#### Login Admin
-![Login admin](/CaptureEcran/screenshot_12.png)
-*Page de connexion administrateur*
-
-#### Dashboard Principal
-![Dashboard admin](/CaptureEcran/screenshot_13.png)
-*Tableau de bord avec statistiques en temps réel*
-
-![Statistiques détaillées](/CaptureEcran/screenshot_14.png)
-*Analytics avancés : revenus, tendances, top ventes*
-
-#### Gestion des Réservations
-![Liste des réservations](/CaptureEcran/screenshot_15.png)
-*Vue complète des réservations clients*
-
-![Détail réservation](/CaptureEcran/screenshot_16.png)
-*Détail d'une réservation avec gestion des statuts*
-
-#### Gestion des Commandes
-![Liste des commandes](/CaptureEcran/screenshot_17.png)
-*Vue des commandes par statut (pending, validated, confirmed, ready, served)*
-
-![Détail commande](/CaptureEcran/screenshot_18.png)
-*Détail d'une commande avec articles*
-
-![Actions commande](/CaptureEcran/screenshot_19.png)
-*Actions rapides : valider, confirmer, annuler, marquer prêt/servi*
-
-#### Vue Cuisine
-![Vue cuisine](/CaptureEcran/screenshot_20.png)
-*Interface dédiée pour les commandes confirmées en cuisine*
-
-#### Gestion des Tables
-![Gestion des tables](/CaptureEcran/screenshot_21.png)
-*Vue d'ensemble des tables avec statut d'occupation*
-
-![Toggle table](/CaptureEcran/screenshot_22.png)
-*Toggle d'occupation de table en un clic*
-
-#### Gestion des Événements
-![Liste des événements](/CaptureEcran/screenshot_23.png)
-*Vue des événements à venir et passés*
-
-![Créer événement](/CaptureEcran/screenshot_24.png)
-*Formulaire de création d'événement*
-
-![Modifier événement](/CaptureEcran/screenshot_25.png)
-*Formulaire de modification d'événement*
-
-#### Gestion des Demandes d'Événements Privés
-![Demandes événements](/CaptureEcran/screenshot_26.png)
-*Liste des demandes d'événements privés*
-
-![Détail demande](/CaptureEcran/screenshot_27.png)
-*Détail d'une demande avec gestion des statuts*
-
-#### Gestion des Traductions
-![Liste des traductions](/CaptureEcran/screenshot_28.png)
-*Vue complète des traductions FR/EN*
-
-![Créer traduction](/CaptureEcran/screenshot_29.png)
-*Formulaire de création de traduction*
-
-![Modifier traduction](/CaptureEcran/screenshot_30.png)
-*Formulaire de modification de traduction*
-
-#### Autres Vues Admin
-![Vue supplémentaire 1](/CaptureEcran/screenshot_31.png)
-*Interface administrative supplémentaire*
-
-![Vue supplémentaire 2](/CaptureEcran/screenshot_32.png)
-*Interface administrative supplémentaire*
-
-![Vue supplémentaire 3](/CaptureEcran/screenshot_33.png)
-*Interface administrative supplémentaire*
-
-![Vue supplémentaire 4](/CaptureEcran/screenshot_34.png)
-*Interface administrative supplémentaire*
-
-![Vue supplémentaire 5](/CaptureEcran/screenshot_35.png)
-*Interface administrative supplémentaire*
-
-![Vue supplémentaire 6](/CaptureEcran/screenshot_36.png)
-*Interface administrative supplémentaire*
-
-![Vue supplémentaire 7](/CaptureEcran/screenshot_37.png)
-*Interface administrative supplémentaire*
 
 ---
 
@@ -349,16 +240,14 @@ Ce logiciel est fourni "tel quel", sans aucune garantie. Si ton serveur explose,
 
 <img width="600" alt="screenshot_37" src="https://github.com/user-attachments/assets/e1a120eb-bc27-471f-ae2b-cff48d26d2d4" />
 <img width="600" alt="screenshot_36" src="https://github.com/user-attachments/assets/0c0b5adb-d5a8-4d8a-9305-9fb5a5b82af5" />
-<img width="600" alt="screenshot_35" src="https://github.com/user-attachments/assets/724a82a8-183a-4f03-ba46-af25b7223bd3" />
+
 <img width="600" alt="screenshot_34" src="https://github.com/user-attachments/assets/ccbacf39-053d-4ccd-968d-5605987f12bb" />
 <img width="600" alt="screenshot_33" src="https://github.com/user-attachments/assets/9c59e092-9624-4af3-97d8-a5b3b2712604" />
 <img width="600" alt="screenshot_32" src="https://github.com/user-attachments/assets/c6b825ac-c3d2-4066-91f3-cd3f9ef9c463" />
 <img width="600" alt="screenshot_31" src="https://github.com/user-attachments/assets/6d7c88da-5887-46d9-85ae-75e79ff19a3e" />
 <img width="600" alt="screenshot_30" src="https://github.com/user-attachments/assets/a093ad88-5ca9-4c22-a5b4-87684a59db41" />
 <img width="600" alt="screenshot_29" src="https://github.com/user-attachments/assets/90fad72b-0a87-4f16-bc00-9ecb5e0fcb1b" />
-<img width="600" alt="screenshot_28" src="https://github.com/user-attachments/assets/18dd9dfc-3a25-4f60-809b-54a1c3dada4c" />
-<img width="600" alt="screenshot_27" src="https://github.com/user-attachments/assets/b1463a09-aeac-415c-b22b-3c82e2ee2b42" />
-<img width="600" alt="screenshot_26" src="https://github.com/user-attachments/assets/f12020c4-6bed-465b-920d-b414188b87d5" />
+
 <img width="600" alt="screenshot_25" src="https://github.com/user-attachments/assets/0531d172-c3f9-4d6c-99bf-2e864f5885cb" />
 <img width="600" alt="screenshot_24" src="https://github.com/user-attachments/assets/65f5f21e-da66-45c2-8e6f-81c72ee84600" />
 <img width="600" alt="screenshot_23" src="https://github.com/user-attachments/assets/a9ac13b3-968c-45fc-ba6b-33498e9082bd" />
@@ -375,13 +264,10 @@ Ce logiciel est fourni "tel quel", sans aucune garantie. Si ton serveur explose,
 <img width="600" alt="screenshot_12" src="https://github.com/user-attachments/assets/18a0dd94-8b84-41e2-9acd-cde21bf3feff" />
 <img width="600" alt="screenshot_11" src="https://github.com/user-attachments/assets/c63f2e5e-f974-446c-8bb0-aa49e90c427a" />
 <img width="600" alt="screenshot_10" src="https://github.com/user-attachments/assets/875732f9-4039-4142-a916-b78e0888b666" />
-<img width="600"alt="screenshot_09" src="https://github.com/user-attachments/assets/4289c3b2-eef7-489d-84ec-96dc6c5fa1a2" />
-<img width="600" alt="screenshot_08" src="https://github.com/user-attachments/assets/08c5b6c9-94ac-49c2-887d-bed5c5d4926b" />
-<img width="600" alt="screenshot_07" src="https://github.com/user-attachments/assets/6c38b7fe-e266-4705-bc27-d7085bc426af" />
-<img width="600" alt="screenshot_06" src="https://github.com/user-attachments/assets/b2284698-82cb-4162-bbdd-eb8a19b0e04e" />
+
 <img width="600" alt="screenshot_05" src="https://github.com/user-attachments/assets/13fb5fd4-b896-4e2d-a806-5d3e713f6156" />
 <img width="600" alt="screenshot_04" src="https://github.com/user-attachments/assets/43b6e20a-d90e-49f5-aba4-09fc19fcc6a6" />
 <img width="600" alt="screenshot_03" src="https://github.com/user-attachments/assets/353c93c2-fcf5-4712-9f8d-c5dedeb23d5d" />
 <img width="600" alt="screenshot_02" src="https://github.com/user-attachments/assets/77b0530b-226c-46d8-803f-7dd8b002a95c" />
-<img width="600" alt="screenshot_01" src="https://github.com/user-attachments/assets/470ee8dd-5b2c-4793-9f2c-ba2e014df015" />
+
 
