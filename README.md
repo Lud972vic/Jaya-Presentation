@@ -63,13 +63,17 @@ Oui, tu as bien lu. **4 jours**. En live. Avec des gens qui regardent. C'est com
   - Services disponibles (restaurant, bar, événements, Wi-Fi, parking, accès handicapé)
   - Coordonnées de contact avec carte
   - Moyens de transport (voiture, taxi, bus)
- 
+<img width="600" alt="screenshot_12" src="https://github.com/user-attachments/assets/18a0dd94-8b84-41e2-9acd-cde21bf3feff" />
+<img width="600" alt="screenshot_11" src="https://github.com/user-attachments/assets/c63f2e5e-f974-446c-8bb0-aa49e90c427a" />
+<img width="600" alt="screenshot_10" src="https://github.com/user-attachments/assets/875732f9-4039-4142-a916-b78e0888b666" />
 
 - **🤝 Collaborations** :
   - Territoires et environnements partenaires
   - Influenceurs et leurs témoignages
   - Partenaires locaux (pêcheurs, marché, rhums, etc.)
-
+<img width="600" alt="screenshot_15" src="https://github.com/user-attachments/assets/37a1e9d5-b303-4064-a9ed-5c90a3a59266" />
+<img width="600" alt="screenshot_14" src="https://github.com/user-attachments/assets/61eaedfc-b479-4fdd-86c1-11d0896047da" />
+<img width="600" alt="screenshot_13" src="https://github.com/user-attachments/assets/d0d8840f-e188-4e7f-a35f-bd66b7adc318" />
 
 ### Fonctionnalités Techniques
 - **🌐 Multilingue** : Système de traduction dynamique via base de données (FR/EN)
@@ -258,12 +262,8 @@ Ce logiciel est fourni "tel quel", sans aucune garantie. Si ton serveur explose,
 <img width="600" alt="screenshot_18" src="https://github.com/user-attachments/assets/941b6911-f555-4227-9c8b-e41e87987c15" />
 <img width="600" alt="screenshot_17" src="https://github.com/user-attachments/assets/f1f76d92-4143-410f-a1e0-13a2e82c3ce6" />
 <img width="600" alt="screenshot_16" src="https://github.com/user-attachments/assets/c36471c1-3b96-4ae2-8d31-e356370a7e07" />
-<img width="600" alt="screenshot_15" src="https://github.com/user-attachments/assets/37a1e9d5-b303-4064-a9ed-5c90a3a59266" />
-<img width="600" alt="screenshot_14" src="https://github.com/user-attachments/assets/61eaedfc-b479-4fdd-86c1-11d0896047da" />
-<img width="600" alt="screenshot_13" src="https://github.com/user-attachments/assets/d0d8840f-e188-4e7f-a35f-bd66b7adc318" />
-<img width="600" alt="screenshot_12" src="https://github.com/user-attachments/assets/18a0dd94-8b84-41e2-9acd-cde21bf3feff" />
-<img width="600" alt="screenshot_11" src="https://github.com/user-attachments/assets/c63f2e5e-f974-446c-8bb0-aa49e90c427a" />
-<img width="600" alt="screenshot_10" src="https://github.com/user-attachments/assets/875732f9-4039-4142-a916-b78e0888b666" />
+
+
 
 <img width="600" alt="screenshot_05" src="https://github.com/user-attachments/assets/13fb5fd4-b896-4e2d-a806-5d3e713f6156" />
 <img width="600" alt="screenshot_04" src="https://github.com/user-attachments/assets/43b6e20a-d90e-49f5-aba4-09fc19fcc6a6" />
