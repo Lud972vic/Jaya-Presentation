@@ -1,4 +1,4 @@
-# 🚀 Jaya - Le projet qui va (peut-être) changer le monde
+# 🚀 Jaya - Le projet qui va (peut-être) changer le monde restaurant - Balgue à part, projet pour un cousin
 
 > *"Le code, c'est comme le café : ça marche mieux quand c'est bien préparé et que ça ne plante pas."* - Un développeur qui a trop bu de café
 
