@@ -54,7 +54,6 @@ Oui, tu as bien lu. **4 jours**. En live. Avec des gens qui regardent. C'est com
 <img width="600" alt="screenshot_28" src="https://github.com/user-attachments/assets/f12020c4-6bed-465b-920d-b414188b87d5" />
 <img width="600" alt="screenshot_27" src="https://github.com/user-attachments/assets/b1463a09-aeac-415c-b22b-3c82e2ee2b42" />
 <img width="600" alt="screenshot_26" src="https://github.com/user-attachments/assets/18dd9dfc-3a25-4f60-809b-54a1c3dada4c" />
-<img width="600" alt="screenshot_34" src="https://github.com/user-attachments/assets/ccbacf39-053d-4ccd-968d-5605987f12bb" />
 
 - **🎊 Événements privés** :
   - Affichage des événements à venir et passés
@@ -84,6 +83,8 @@ Oui, tu as bien lu. **4 jours**. En live. Avec des gens qui regardent. C'est com
 
 ### Fonctionnalités Techniques
 - **🌐 Multilingue** : Système de traduction dynamique via base de données (FR/EN)
+<img width="600" alt="screenshot_36" src="https://github.com/user-attachments/assets/0c0b5adb-d5a8-4d8a-9305-9fb5a5b82af5" />
+
 - **📱 Responsive** : Design adapté mobile/tablette/desktop
 - **🔒 Sécurité** : Protection CSRF sur tous les formulaires
 
@@ -141,6 +142,8 @@ Oui, tu as bien lu. **4 jours**. En live. Avec des gens qui regardent. C'est com
   - Modifier les détails
   - Activer/Désactiver la visibilité
   - Supprimer
+<img width="600" alt="screenshot_34" src="https://github.com/user-attachments/assets/ccbacf39-053d-4ccd-968d-5605987f12bb" />
+
 - **🖼️ Gestion des images** : Sélection d'image depuis dossier
 - **📊 Vue séparée** : Événements à venir vs passés
 <img width="600" alt="screenshot_22" src="https://github.com/user-attachments/assets/3fa0f4b8-165c-457e-bf59-585dac5a0091" />
@@ -175,7 +178,7 @@ Oui, tu as bien lu. **4 jours**. En live. Avec des gens qui regardent. C'est com
 
 <img width="600" alt="screenshot_32" src="https://github.com/user-attachments/assets/c6b825ac-c3d2-4066-91f3-cd3f9ef9c463" />
 
-<img width="600" alt="screenshot_36" src="https://github.com/user-attachments/assets/0c0b5adb-d5a8-4d8a-9305-9fb5a5b82af5" />
+
 
 ---
 
