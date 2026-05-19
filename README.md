@@ -10,7 +10,7 @@ C'est un projet Symfony 8.0, parce qu'on aime vivre dangereusement avec la derni
 
 ### ⚡ Réalisé en 4 jours en Vibe coding
 
-Oui, tu as bien lu. **4 jours**. En live. Avec des gens qui regardent. C'est comme cuisiner devant une audience : si tu fais tomber l'omelette, tout le monde le voit. Mais là, c'est du code, donc c'est encore plus stressant.
+Oui, tu as bien lu. **4 jours**. En vibe coding. Avec des gens qui regardent. C'est comme cuisiner devant une audience : si tu fais tomber l'omelette, tout le monde le voit. Mais là, c'est du code, donc c'est encore plus stressant.
 
 - Jour 1 : Setup et café
 - Jour 2 : Code et plus de café
