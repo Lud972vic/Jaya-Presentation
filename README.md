@@ -8,7 +8,7 @@
 
 C'est un projet Symfony 8.0, parce qu'on aime vivre dangereusement avec la dernière version stable. C'est comme conduire une Ferrari : puissant, mais attention aux virages serrés.
 
-### ⚡ Réalisé en 4 jours en LIVE CODING
+### ⚡ Réalisé en 4 jours en Vibe coding
 
 Oui, tu as bien lu. **4 jours**. En live. Avec des gens qui regardent. C'est comme cuisiner devant une audience : si tu fais tomber l'omelette, tout le monde le voit. Mais là, c'est du code, donc c'est encore plus stressant.
 
